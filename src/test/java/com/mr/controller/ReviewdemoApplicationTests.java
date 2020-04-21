@@ -1,4 +1,4 @@
-package com.mr.reviewdemo;
+package com.mr.controller;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
